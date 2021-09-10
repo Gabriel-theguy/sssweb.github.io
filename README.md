@@ -1,2 +1,0 @@
-# sssweb.github.io
-web
